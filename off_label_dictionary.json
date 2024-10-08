@@ -1,0 +1,128 @@
+{
+    "Aspirin": {
+        "Approved Uses": ["Pain relief", "Fever reduction"],
+        "Off-label Uses": ["Prevent heart attacks", "Migraine prevention"],
+        "Side Effects": ["Nausea", "Bleeding"],
+        "Interactions": ["Warfarin", "Ibuprofen"]
+    },
+    "Amitriptyline": {
+        "Approved Uses": ["Depression"],
+        "Off-label Uses": ["Chronic pain", "Migraines", "Insomnia"],
+        "Side Effects": ["Dry mouth", "Drowsiness", "Weight gain"],
+        "Interactions": ["MAO inhibitors", "Alcohol"]
+    },
+    "Gabapentin": {
+        "Approved Uses": ["Epilepsy", "Postherpetic neuralgia"],
+        "Off-label Uses": ["Neuropathic pain", "Anxiety", "Restless leg syndrome"],
+        "Side Effects": ["Dizziness", "Fatigue", "Weight gain"],
+        "Interactions": ["Antacids", "Opioids"]
+    },
+    "Metformin": {
+        "Approved Uses": ["Type 2 diabetes"],
+        "Off-label Uses": ["Polycystic ovary syndrome (PCOS)", "Weight loss"],
+        "Side Effects": ["Nausea", "Diarrhea", "Vitamin B12 deficiency"],
+        "Interactions": ["Alcohol", "Contrast dye"]
+    },
+    "Propranolol": {
+        "Approved Uses": ["Hypertension", "Angina", "Arrhythmia"],
+        "Off-label Uses": ["Anxiety", "Migraines", "Essential tremor"],
+        "Side Effects": ["Bradycardia", "Fatigue", "Dizziness"],
+        "Interactions": ["Calcium channel blockers", "NSAIDs"]
+    },
+    "Trazodone": {
+        "Approved Uses": ["Depression"],
+        "Off-label Uses": ["Insomnia", "Anxiety"],
+        "Side Effects": ["Drowsiness", "Dry mouth", "Headache"],
+        "Interactions": ["MAO inhibitors", "CNS depressants"]
+    },
+    "Clonidine": {
+        "Approved Uses": ["Hypertension"],
+        "Off-label Uses": ["ADHD", "Anxiety", "Opioid withdrawal"],
+        "Side Effects": ["Drowsiness", "Dry mouth", "Constipation"],
+        "Interactions": ["Beta-blockers", "CNS depressants"]
+    },
+    "Quetiapine": {
+        "Approved Uses": ["Schizophrenia", "Bipolar disorder"],
+        "Off-label Uses": ["Insomnia", "Anxiety"],
+        "Side Effects": ["Weight gain", "Drowsiness", "Dry mouth"],
+        "Interactions": ["Antihypertensives", "CNS depressants"]
+    },
+    "Duloxetine": {
+        "Approved Uses": ["Depression", "Anxiety", "Diabetic neuropathy"],
+        "Off-label Uses": ["Chronic pain", "Fibromyalgia"],
+        "Side Effects": ["Nausea", "Dry mouth", "Fatigue"],
+        "Interactions": ["MAO inhibitors", "NSAIDs"]
+    },
+    "Prazosin": {
+        "Approved Uses": ["Hypertension"],
+        "Off-label Uses": ["PTSD-related nightmares", "Anxiety"],
+        "Side Effects": ["Dizziness", "Headache", "Drowsiness"],
+        "Interactions": ["Beta-blockers", "PDE-5 inhibitors"]
+    },
+    "Spironolactone": {
+        "Approved Uses": ["Hypertension", "Heart failure"],
+        "Off-label Uses": ["Acne", "Hirsutism", "PCOS"],
+        "Side Effects": ["Hyperkalemia", "Gynecomastia", "Dizziness"],
+        "Interactions": ["ACE inhibitors", "NSAIDs"]
+    },
+    "Topiramate": {
+        "Approved Uses": ["Epilepsy", "Migraines"],
+        "Off-label Uses": ["Weight loss", "Alcohol dependence"],
+        "Side Effects": ["Cognitive dysfunction", "Weight loss", "Paresthesia"],
+        "Interactions": ["Carbonic anhydrase inhibitors", "CNS depressants"]
+    },
+    "Doxycycline": {
+        "Approved Uses": ["Bacterial infections"],
+        "Off-label Uses": ["Acne", "Rosacea", "Lyme disease prevention"],
+        "Side Effects": ["Nausea", "Photosensitivity", "Esophagitis"],
+        "Interactions": ["Antacids", "Oral contraceptives"]
+    },
+    "Minocycline": {
+        "Approved Uses": ["Bacterial infections"],
+        "Off-label Uses": ["Acne", "Rheumatoid arthritis"],
+        "Side Effects": ["Dizziness", "Nausea", "Photosensitivity"],
+        "Interactions": ["Antacids", "Oral contraceptives"]
+    },
+    "Atenolol": {
+        "Approved Uses": ["Hypertension", "Angina"],
+        "Off-label Uses": ["Anxiety", "Migraines"],
+        "Side Effects": ["Bradycardia", "Fatigue", "Dizziness"],
+        "Interactions": ["Calcium channel blockers", "NSAIDs"]
+    },
+    "Hydroxyzine": {
+        "Approved Uses": ["Anxiety", "Allergies"],
+        "Off-label Uses": ["Insomnia", "Nausea"],
+        "Side Effects": ["Drowsiness", "Dry mouth", "Headache"],
+        "Interactions": ["CNS depressants", "MAO inhibitors"]
+    },
+    "Bupropion": {
+        "Approved Uses": ["Depression", "Smoking cessation"],
+        "Off-label Uses": ["ADHD", "Weight loss"],
+        "Side Effects": ["Insomnia", "Dry mouth", "Seizures"],
+        "Interactions": ["MAO inhibitors", "Antidepressants"]
+    },
+    "Venlafaxine": {
+        "Approved Uses": ["Depression", "Anxiety"],
+        "Off-label Uses": ["ADHD", "Chronic pain"],
+        "Side Effects": ["Nausea", "Dizziness", "Insomnia"],
+        "Interactions": ["MAO inhibitors", "NSAIDs"]
+    },
+    "Citalopram": {
+        "Approved Uses": ["Depression"],
+        "Off-label Uses": ["Anxiety", "OCD"],
+        "Side Effects": ["Nausea", "Dry mouth", "Drowsiness"],
+        "Interactions": ["MAO inhibitors", "NSAIDs"]
+    },
+    "Lamotrigine": {
+        "Approved Uses": ["Epilepsy", "Bipolar disorder"],
+        "Off-label Uses": ["Depression", "Anxiety"],
+        "Side Effects": ["Rash", "Nausea", "Dizziness"],
+        "Interactions": ["Valproate", "Oral contraceptives"]
+    },
+    "Ondansetron": {
+        "Approved Uses": ["Nausea and vomiting"],
+        "Off-label Uses": ["Alcohol dependence", "Pruritus"],
+        "Side Effects": ["Headache", "Constipation", "Fatigue"],
+        "Interactions": ["Apomorphine", "Tramadol"]
+    }
+}
